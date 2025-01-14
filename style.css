@@ -45,23 +45,16 @@ div a {
     background: black url('imagens/logo-home.jpg') center center;
     background-size: cover;
 }
-#youtube{
-    background: black url('imagens/logo-youtube.jpg') center center;
-    background-size: cover;
-}
 #facebook{
     background: black url('imagens/logo-facebook.jpg') center center;
     background-size: cover;
 }
-#x{
-    background: black url('imagens/logo-twitter.jpg') center center;
-    background-size: cover;
-}
+
 #instagram{
     background: black url('imagens/logo-instagram.jpg') center center ;
     background-size: cover;
 }
-#instagram{
+#github{
     background: black url('imagens/logo-github.jpg') center center ;
     background-size: cover;
 }
